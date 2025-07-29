@@ -1,5 +1,6 @@
  Codsoft Data Science Projects
-This repository contains three beginner-friendly Data Science and Machine Learning projects completed as part of the Codsoft Internship. Each project demonstrates essential steps in a data science workflow — including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and visualization using Python.
+ 
+This repository contains three beginner-friendly Data Science and Machine Learning projects completed as part of the Codsoft Internship. Each project demonstrates essential steps in a data science workflow  including data preprocessing, exploratory data analysis (EDA), model training, evaluation, and visualization using Python.
 
  Projects Included
 1. Titanic Survival Prediction
